@@ -5,7 +5,7 @@ import seaborn as sns
 sns.set()
 
 # Title of the app
-st.title('Housing Data Visualization')
+st.title('Califotnia Housing Data By Guanghao Li')
 
 # Load the housing dataset
 df = pd.read_csv('housing.csv')  # Update with the correct path
